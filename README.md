@@ -3,7 +3,7 @@
 ## Overview
 This project focuses on analyzing diversity and inclusion within a company's workforce, particularly highlighting gender-related KPIs. The dashboard provides valuable insights into gender representation across various departments and management levels, helping organizations identify areas for improvement and track progress toward diversity goals.
 
-![Diversity & Inclusion Dashboard](Diversity%20%26%20Inclusion%20Dashboard.png)
+![Diversity & Inclusion Dashboard](assets/Diversity%20%26%20Inclusion%20Dashboard.png)
 
 ## Key Features
 - **Data Sources**: The dataset includes employee demographics, role classifications, and gender representation.
